@@ -1,0 +1,10 @@
+# 机密与本地状态（切勿提交 API Key）
+config.json
+.code_agent_history.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 测试残留
+.tmp_write_test.txt
